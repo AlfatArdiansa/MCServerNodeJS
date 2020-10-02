@@ -1,5 +1,5 @@
 # MCServerNodeJS
-this is my first open source project i hope you guys like it. I use child_process to connect nodejs with a minecraft server using java
+this is my first open source project i hope you guys like it. I use child_process to connect nodejs with a minecraft server that using Java Archive/jar
 
 ## Installation
 
